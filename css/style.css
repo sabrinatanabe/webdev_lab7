@@ -8,6 +8,10 @@ body {
 	border-color: #FFE4E1;
 	text-align: center;
 }
+
+td: first-child, th: first-child {
+	background-color: #E6E6FA; 
+}
  
  h1 {
  	color: #E6E6FA;
