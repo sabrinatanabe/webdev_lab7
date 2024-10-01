@@ -8,13 +8,21 @@ td, th {
   background-size: 100vw 100vh;
 }
  
- h1, p {
+ h1 {
  	color: #E6E6FA;
  	font-family: 'freight-big-pro';
  	font-size: 2em;
  	text-align: center;
  	letter-spacing: 1.5px;
  	overflow-wrap: break-world;
+ }
+ 
+ p {
+ 	color: #E6E6FA;
+ 	font-family: 'freight-big-pro';
+ 	font-size: 1.8em;
+ 	text-align: center;
+ 	letter-spacing: 1.5px;
  }
  
  ul {
@@ -25,7 +33,7 @@ td, th {
  
  table {
  	width: 100%;
- 	background-color: #fff;
+ 	background-color: #FFF5EE;
  }
  
  th {
