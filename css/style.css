@@ -1,12 +1,12 @@
-td, th {
+body {
+  background-image: url("../images/galaxy.jpg");
+  background-size: 100vw 100vh;
+}
+ 
+ td, th {
 	border: 1px ridge;
 	border-color: #FFE4E1;
 	text-align: center;
-  }
- 
- body {
-  background-image: url("../images/galaxy.jpg");
-  background-size: 100vw 100vh;
 }
  
  h1 {
