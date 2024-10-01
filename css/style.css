@@ -1,6 +1,7 @@
 td, th {
 	border: 1px ridge;
 	border-color: #FFE4E1;
+	text-align: center
   }
  
  body {
@@ -52,10 +53,6 @@ td, th {
  	font-family: 'freight-big-pro';
  	letter-spacing: 1.5px;
  	overflow-wrap: break-world;
- }
- 
- td {
- 	text-align: center;
  }
  
  img {
