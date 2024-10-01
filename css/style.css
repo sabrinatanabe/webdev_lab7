@@ -40,6 +40,9 @@ td, th {
  	margin-left: 30px;
  	width: 100%;
  	background-color: #FFF5EE;
+ 	font-family: 'freight-big-pro';
+ 	letter-spacing: 1.5px;
+ 	overflow-wrap: break-world;
  }
  
  th {
