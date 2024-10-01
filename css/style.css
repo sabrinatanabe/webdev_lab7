@@ -20,7 +20,7 @@ td: first-child, th: first-child {
  	font-size: 3em;
  	text-align: center;
  	letter-spacing: 1.5px;
- 	overflow-wrap: break-world;
+ 	overflow-wrap: 'break-world;
  }
  
  p {
