@@ -4,6 +4,7 @@ td, th {
  
  body {
   background-image: url("../images/galaxy.jpg");
+  background-size: 100vw 100vh;
 }
  
  h1 {
