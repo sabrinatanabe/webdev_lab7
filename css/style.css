@@ -47,7 +47,10 @@ td, th {
  
  th {
  	background-color: #FFB6C1;
- 	font-size: 1.5em
+ 	font-size: 1.5em;
+ 	font-family: 'freight-big-pro';
+ 	letter-spacing: 1.5px;
+ 	overflow-wrap: break-world;
  }
  
  img {
