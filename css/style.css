@@ -26,4 +26,8 @@ td, th {
  	background-color: #fff;
  }
  
+ th {
+ 	background-color: pink;
+ 	font-size: 1.5em
+ }
  
