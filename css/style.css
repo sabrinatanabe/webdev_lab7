@@ -2,18 +2,22 @@ td, th {
 	border: 1px solid;
   }
  
+ body {
+  background-image: url("../images/galaxy.jpg");
+}
+ 
  h1 {
  	color: #fff;
  	font-family: 'freight-big-pro';
- 	font-size: 201px;
- 	letter-spacing: -6.5px;
+ 	font-size: 50px;
+ 	letter-spacing: 1.5px;
  	overflow-wrap: break-world;
  }
  
  ul {
  	list-style; none;
- 	margin: 0;
- 	padding: 0;
+ 	margin: 10px;
+ 	padding: 5px;
  }
  
  
