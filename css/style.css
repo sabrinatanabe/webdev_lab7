@@ -25,7 +25,7 @@ td: first-child, th: first-child {
  	color: #E6E6FA;
  	font-weight: 'bold';
  	font-family: 'freight-big-pro', 'sans-serif;
- 	font-size: '3em';
+ 	font-size: 3em;
  	text-align: center;
  	letter-spacing: 1.5px;
  	overflow-wrap: 'break-world;
