@@ -11,6 +11,7 @@ td, th {
  	color: #E6E6FA;
  	font-family: 'freight-big-pro';
  	font-size: 2em;
+ 	text-align: center;
  	letter-spacing: 1.5px;
  	overflow-wrap: break-world;
  }
