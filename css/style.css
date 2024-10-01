@@ -44,11 +44,7 @@ td, th {
  	background-color: #FFF5EE;
  	overflow-wrap: break-world;
  }
- 
- .center {
- 	margin-left: auto;
- 	margin-right: auto;
- }
+
  
  th {
  	background-color: #FFB6C1;
@@ -56,6 +52,10 @@ td, th {
  	font-family: 'freight-big-pro';
  	letter-spacing: 1.5px;
  	overflow-wrap: break-world;
+ }
+ 
+ td {
+ 	text-align: center;
  }
  
  img {
