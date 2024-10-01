@@ -39,9 +39,9 @@ td, th {
  }
  
  table {
- 	margin-left: 100px;
- 	margin-left: 100px;
- 	width: 80%;
+ 	margin-left: 20%;
+ 	margin-left: 20%;
+ 	width: auto;
  	background-color: #FFF5EE;
  	overflow-wrap: break-world;
  }
