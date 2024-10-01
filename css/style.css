@@ -38,13 +38,10 @@ td, th {
  }
  
  table {
- 	margin-left: 50px;
- 	margin-left: 50px;
+ 	margin-left: 100px;
+ 	margin-left: 100px;
  	width: 100%;
  	background-color: #FFF5EE;
- 	font-family: 'freight-big-pro';
- 	letter-spacing: 1.5px;
- 	text-align: center;
  	overflow-wrap: break-world;
  }
  
