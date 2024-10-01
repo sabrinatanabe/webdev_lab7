@@ -1,5 +1,6 @@
 td, th {
-	border: 1px solid;
+	border: 1px ridge;
+	border-color: #FFE4E1;
   }
  
  body {
