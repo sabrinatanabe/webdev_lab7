@@ -45,6 +45,11 @@ td, th {
  	overflow-wrap: break-world;
  }
  
+ .center {
+ 	margin-left: auto;
+ 	margin-right: auto;
+ }
+ 
  th {
  	background-color: #FFB6C1;
  	font-size: 1.5em;
