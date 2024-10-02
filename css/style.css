@@ -14,7 +14,6 @@ body {
  	font-size: 1.5em;
  	font-family: 'freight-big-pro', 'sans-serif;
  	letter-spacing: 1.5px;
- 	overflow-wrap: 'break-world;
  }
 
 td: first-child, th: first-child {
@@ -23,12 +22,11 @@ td: first-child, th: first-child {
  
  h1 {
  	color: #E6E6FA;
- 	font-weight: 'bold';
+ 	font-weight: bold;
  	font-family: 'freight-big-pro', 'sans-serif;
  	font-size: 3em;
  	text-align: center;
  	letter-spacing: 1.5px;
- 	overflow-wrap: 'break-world;
  }
  
  p {
@@ -49,14 +47,12 @@ td: first-child, th: first-child {
  	font-family: 'freight-big-pro', 'sans-serif';
  	letter-spacing: 1.5px;
  	text-align: center;
- 	overflow-wrap: 'break-world;
  }
  
  table {
  	margin: center;
  	width: auto;
  	background-color: #FFF5EE;
- 	overflow-wrap: 'break-world;
  }
  
  img {
