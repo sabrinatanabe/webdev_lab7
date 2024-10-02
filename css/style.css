@@ -31,7 +31,7 @@ td: first-child, th: first-child {
  	overflow-wrap: 'break-world;
  }
  
- p {
+ #p {
  	color: #E6E6FA;
  	font-family: 'freight-big-pro', 'sans-serif;
  	font-size: 1.8em;
@@ -41,7 +41,7 @@ td: first-child, th: first-child {
  }
  
  
- ul {
+ #ul {
  	list-style; none;
  	margin: 20px;
  	padding: 10px;
@@ -59,7 +59,7 @@ td: first-child, th: first-child {
  	overflow-wrap: 'break-world;
  }
  
- img {
+ #img {
  	width: 20%;
  	height: 20%;
  }
