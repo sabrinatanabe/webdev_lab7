@@ -21,7 +21,7 @@ td: first-child, th: first-child {
 	background-color: #E6E6FA; 
 }
  
- h1 {
+ #header h1 {
  	color: #E6E6FA;
  	font-weight: 'bold';
  	font-family: 'freight-big-pro', 'sans-serif;
