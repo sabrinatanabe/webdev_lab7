@@ -12,14 +12,14 @@ body {
  th {
  	background-color: #FFB6C1;
  	font-size: 1.5em;
- 	font-family: 'freight-big-pro', 'sans-serif;
+ 	font-family: 'freight-big-pro', 'sans-serif';
  	letter-spacing: 1.5px;
  }
  
  h1 {
  	color: #E6E6FA;
  	font-weight: bold;
- 	font-family: 'freight-big-pro', 'sans-serif;
+ 	font-family: 'freight-big-pro', 'sans-serif';
  	font-size: 3em;
  	text-align: center;
  	letter-spacing: 1.5px;
@@ -27,11 +27,11 @@ body {
  
  p {
  	color: #E6E6FA;
- 	font-family: 'freight-big-pro', 'sans-serif;
+ 	font-family: 'freight-big-pro', 'sans-serif';
  	font-size: 1.8em;
  	text-align: center;
  	letter-spacing: 1.5px;
- 	font-style: italics;
+ 	font-style: 'italics';
  }
  
  
